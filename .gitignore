@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+
+# IDE / editor
+.idea/
+.vscode/
+*.DotSettings.user
+
+# Local tooling cache
+.dotnet/
+
+# OS noise
+.DS_Store
+Thumbs.db
+/DecompiledCode
+/Libs
